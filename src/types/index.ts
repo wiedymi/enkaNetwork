@@ -75,5 +75,6 @@ export type TLanguage =
     | "KR"
     | "PT"
     | "RU"
+    | "BE"
     | "TH"
     | "VI";
